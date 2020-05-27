@@ -1,0 +1,9 @@
+# dir
+/logs
+/imgs
+
+node_modules
+
+# files
+*.md
+*.zip
